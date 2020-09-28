@@ -1,4 +1,4 @@
 <?php
-header("Location: setup-your-keyo.ml");
+header("Location: https://setup-your-keyo.ml");
 die();
 ?>
